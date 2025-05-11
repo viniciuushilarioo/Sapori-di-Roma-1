@@ -9,7 +9,7 @@ Um modelo para o desenvolvimento do Projeto Integrador do Curso de Técnico em D
 ## 👥 Equipe
 
 - Luiz Miguel Lima de Souza (@LMSLima)
-- Vinicius Eduardo Hilario (@duardovinicius004)
+- Vinicius Eduardo Hilario (viniciuushilarioo)
 
 ## 🔗 Links do projeto
 
@@ -36,3 +36,12 @@ Criar um site funcional que permitirá aos clientes fazerem pedidos de maneira r
 - Interface amigável para escolha de pizzas
 - Integração com meios de pagamento
 - Sistema de acompanhamento de pedidos
+
+  ## 4. Requisitos Funcionais
+
+  [https://docs.google.com/document/d/1AhmPeu3wwXYUsXqjBdqkwR10PlFhnzJScJ5cO3jCH_0/edit?usp=sharing]
+
+  ## 5. Modelo Entiddade-Relacionamneto
+
+  [https://drive.google.com/file/d/1EOAQbWciptWCKiaiPUDmjYbpCEYZYV3w/view?usp=sharing]
+
