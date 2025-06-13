@@ -14,7 +14,7 @@ Um modelo para o desenvolvimento do Projeto Integrador do Curso de Técnico em D
 ## 🔗 Links do projeto
 
 - **Documentação**: (esse documento)
-- **Backend**: [Repositório](#) | [Publicação](#)
+- **Backend**: [https://github.com/viniciuushilarioo/Sapori-Di-Roma-Backend](#) | [Publicação](#)
 - **Frontend**: [Repositório](#) | [Publicação](#)
 
 ## 📌 1. Descrição do Projeto
